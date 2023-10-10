@@ -3,11 +3,11 @@ Description:
 
 Developed a Credit Card Fraud Detection system using Python, utilizing data analysis and machine learning techniques. Key achievements include:
 
-> Preprocessed and analyzed an imbalanced dataset, consisting of legitimate and fraudulent transactions.
-> Performed statistical analysis to understand the distribution of transaction amounts for both categories.
-> Under-sampled the dataset to create a balanced sample with 492 fraudulent transactions.
-> Utilized Logistic Regression for predictive modeling and trained the model on the prepared dataset.
-> Achieved an accuracy score of 93.9 on the test data, demonstrating the model's effectiveness in identifying fraudulent transactions.
+1. Preprocessed and analyzed an imbalanced dataset, consisting of legitimate and fraudulent transactions.
+2. Performed statistical analysis to understand the distribution of transaction amounts for both categories.
+3. Under-sampled the dataset to create a balanced sample with 492 fraudulent transactions.
+4. Utilized Logistic Regression for predictive modeling and trained the model on the prepared dataset.
+5. Achieved an accuracy score of 93.9 on the test data, demonstrating the model's effectiveness in identifying fraudulent transactions.
 
 Incorporating Python libraries such as NumPy, pandas, scikit-learn, and logistic regression, this project is designed for credit card fraud detection. It utilizes machine learning techniques to split data into training and testing sets, employs logistic regression for predictive modeling, and measures model performance using accuracy scores.
 
